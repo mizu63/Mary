@@ -43,7 +43,7 @@ const App = () => {
 
           <img className="absolute right-0 bottom-0"
             src={Image1} alt="" />
-          <div className='flex absolute left-[196px] top-[597px] gap-3 '>
+          <div className='flex absolute left-49 top-[597px] gap-3 '>
               <Button className="text-white" item="Download CV"/>
              <Button className="bg-[#CCC6C2] text-white" item="Contact "/>
           </div>
