@@ -5,6 +5,7 @@ import App from './App.jsx'
 import About from './Components/About.jsx'
 import Skills from './Components/Skills.jsx'
 import Summary from './Components/Summary.jsx'
+import Footer from './Components/Footer.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -12,5 +13,6 @@ createRoot(document.getElementById('root')).render(
     <About/>
     <Skills/>
     <Summary/>
+    <Footer/>
   </StrictMode>,
 )
